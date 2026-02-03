@@ -208,3 +208,7 @@ __marimo__/
 
 # Zip archives
 *.zip
+
+# Airflow
+config/
+logs/
